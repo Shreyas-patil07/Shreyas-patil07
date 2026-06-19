@@ -1,4 +1,4 @@
-<img src="assets/banner.png" alt="Shreyas Patil Banner" width="100%" />
+<img src="Shreyas-patil07_banner.png" alt="Shreyas Patil Banner" width="100%" />
 
 ### Backend Developer • Flutter Developer • AI Systems
 
