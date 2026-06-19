@@ -1,10 +1,6 @@
-<div align="center">
+<img src="assets/banner.png" alt="Shreyas Patil Banner" width="100%" />
 
-# Shreyas Patil
-
-### Backend Developer • Flutter Developer • AI Integration Enthusiast
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=700&lines=Building+Backend+Systems;FastAPI+%7C+Flutter+%7C+SQLite;AI+Powered+Applications;Always+Learning+Always+Building" />
+### Backend Developer • Flutter Developer • AI Systems
 
 <br>
 
