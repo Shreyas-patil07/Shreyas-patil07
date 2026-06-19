@@ -29,8 +29,11 @@ Special Ability: Turning Ideas Into Products
 
 ## 🏆 Achievements
 🥇 1st Place Hackathon Winner
+
 ⚡ Backend Lead — Team Numero Uno
+
 🤖 Built AI-powered applications using Gemini AI
+
 🔐 Developed secure authentication and API systems
 
 ---
