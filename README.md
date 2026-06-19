@@ -52,6 +52,7 @@ Special Ability: Turning Ideas Into Products
 
 ---
 <div align="center">
-### > Build. Optimize. Scale. Repeat._
+
+  ### > Build. Optimize. Scale. Repeat._
 </div>
 
