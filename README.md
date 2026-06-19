@@ -24,20 +24,16 @@ Special Ability: Turning Ideas Into Products
 
 `FastAPI` • `Supabase` • `Gemini AI` • `REST APIs` • `JWT Auth`
 </div>
----
 
 ### 🚀 Completed Quests
 
 🎓 **UNIFIND**
-
 > AI-powered student marketplace with semantic search and secure backend architecture.
 
 🎮 **Gaming Cafe Manager**
-
 > Offline-first Flutter application for gaming cafes with analytics and session management.
 
 🛒 **SmartCart**
-
 > Frictionless checkout system powered by real-time barcode scanning and QR verification.
 
 ---
@@ -67,8 +63,7 @@ Special Ability: Turning Ideas Into Products
 
 ---
 
-### 🌐 Connect
-[GitHub](https://github.com/Shreyas-patil07) 
+### 🌐 Connect : [GitHub](https://github.com/Shreyas-patil07) 
 [LinkedIn](https://linkedin.com/in/shreyasrp07)
 
 ---
