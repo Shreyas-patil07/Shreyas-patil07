@@ -97,7 +97,7 @@ Offline-first Flutter application for gaming cafes.
 * Business Reporting Dashboard
 
 🔗 Repository:
-https://github.com/Shreyas-patil07/zuzu
+https://github.com/Shreyas-patil07/gaming_cafe_manager
 
 ---
 
