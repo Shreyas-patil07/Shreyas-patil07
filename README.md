@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=3000&pause=100&color=115FF7&height=45&lines=Backend+Developer;API+Integration;Python+Developer;Backend+Optimization;Authentication" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=3000&pause=100&color=115FF7&height=55&lines=Backend+Developer;API+Integration;Python+Developer;Backend+Optimization;Authentication" />
 
 ---
 ### 👾 Yo, I'm Shreyas (Hacketz)   |   🎮 Developer by Passion • Gamer by Nature
