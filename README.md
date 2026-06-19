@@ -51,9 +51,7 @@ Special Ability: Turning Ideas Into Products
 </p>
 
 ---
-
-<img src="https://streak-stats.demolab.com?user=Shreyas-patil07&theme=tokyonight&hide_border=true" />
-
+<div align="center">
 ### > Build. Optimize. Scale. Repeat._
-
+</div>
 
