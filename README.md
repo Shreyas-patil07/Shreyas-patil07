@@ -1,10 +1,7 @@
 <div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Backend+Developer;Flutter+Developer;AI+Systems+Builder;FastAPI+%7C+Flutter+%7C+Firebase;Build.+Optimize.+Repeat." />
 
-# 👾<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Backend+Developer;Flutter+Developer;AI+Systems+Builder;FastAPI+%7C+Flutter+%7C+Firebase;Build.+Optimize.+Repeat." />
-
----
-
-### 🎮 Developer by Passion • Gamer by Nature
+### 👾 🎮 Developer by Passion • Gamer by Nature
 
 ```text
 Name: Shreyas Ravindra Patil
