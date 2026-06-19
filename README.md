@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Backend+Developer;Flutter+Developer;AI+Systems+Builder;FastAPI+%7C+Flutter+%7C+Firebase;Build.+Optimize.+Repeat." />
+[<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Backend+Developer;Flutter+Developer;AI+Systems+Builder;FastAPI+%7C+Flutter+%7C+Firebase;Build.+Optimize.+Repeat." />](https://readme-typing-svg.demolab.com/demo/?duration=3000&pause=100&color=115FF7&width=400&height=45&lines=Backend+Developer;API+Integration;Python+Developer;Backend+Optimization;Authentication)
 
 ---
 ### 👾 Yo, I'm Shreyas (Hacketz)   |   🎮 Developer by Passion • Gamer by Nature
