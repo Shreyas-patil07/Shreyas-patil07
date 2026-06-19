@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👾 Hey, I'm Shreyas
+# 👾 Hey, 
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Backend+Developer;Flutter+Developer;AI+Systems+Builder;FastAPI+%7C+Flutter+%7C+Firebase;Build.+Optimize.+Repeat." />
 
@@ -9,6 +9,7 @@
 ### 🎮 Developer by Passion • Gamer by Nature
 
 ```text
+Name: Shreyas Ravindra Patil
 Level: Computer Engineering Student
 Class: Backend Developer
 Guild: Team Numero Uno
@@ -25,10 +26,10 @@ Special Ability: Turning Ideas Into Products
 </p>
 
 `FastAPI` • `Supabase` • `Gemini AI` • `REST APIs` • `JWT Auth`
-
+</div>
 ---
 
-### 🚀 Current Quests
+### 🚀 Completed Quests
 
 🎓 **UNIFIND**
 
@@ -69,20 +70,8 @@ Special Ability: Turning Ideas Into Products
 
 ---
 
-### 🎯 Current Focus
-
-```yaml
-Backend Engineering
-Flutter Development
-AI Systems
-System Design
-```
-
----
-
 ### 🌐 Connect
-
-[GitHub](https://github.com/Shreyas-patil07) •
+[GitHub](https://github.com/Shreyas-patil07) 
 [LinkedIn](https://linkedin.com/in/shreyasrp07)
 
 ---
@@ -91,4 +80,4 @@ System Design
 
 ### > Build. Optimize. Scale. Repeat._
 
-</div>
+
