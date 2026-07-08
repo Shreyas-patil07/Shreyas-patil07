@@ -3,7 +3,10 @@
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=3000&pause=100&color=008DF7&center=true&vCenter=true&random=true&width=426&height=55&lines=Backend+Developer;API+Integration;Python+Developer;Backend+Optimization;Authentication" />
 
 ---
+
 ### 👾 Yo, I'm Shreyas (Hacketz)   |   🎮 Developer by Passion • Gamer by Nature
+
+🌐 **Portfolio:** https://hacketz-about.vercel.app/
 
 ```text
 Name: Shreyas Ravindra Patil
@@ -23,11 +26,13 @@ Special Ability: Turning Ideas Into Products
 </p>
 
 `FastAPI` • `Supabase` • `Gemini AI` • `REST APIs` • `JWT Auth`
+
 </div>
 
 ---
 
 ## 🏆 Achievements
+
 🥇 1st Place Hackathon Winner
 
 ⚡ Backend Lead — Team Numero Uno
@@ -45,8 +50,9 @@ Special Ability: Turning Ideas Into Products
 </p>
 
 ---
+
 <div align="center">
 
-  ### > Build. Optimize. Scale. Repeat._
-</div>
+### > Build. Optimize. Scale. Repeat._
 
+</div>
