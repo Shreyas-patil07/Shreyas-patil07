@@ -6,9 +6,7 @@
 
 ### 👾 Yo, I'm Shreyas (Hacketz)   |   🎮 Developer by Passion • Gamer by Nature
 
-```md
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-008DF7?style=for-the-badge)](https://hacketz-about.vercel.app/)
-```
 
 ```text
 Name: Shreyas Ravindra Patil
