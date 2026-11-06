@@ -49,6 +49,9 @@ Special Ability: Turning Ideas Into Products
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Shreyas-patil07&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=Shreyas-patil07&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 ---
 
 <div align="center">
